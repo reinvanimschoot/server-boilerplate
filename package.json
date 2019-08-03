@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "apollo-server": "^2.8.1",
+    "graphql": "^14.4.2",
+    "graphql-iso-date": "^3.6.1",
+    "graphql-upload": "^8.0.7",
+    "jsonwebtoken": "^8.5.1",
+    "jwks-rsa": "^1.6.0",
+    "pg": "^7.12.0",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "@types/graphql": "^14.2.3",
+    "@types/graphql-iso-date": "^3.3.1",
+    "@types/jsonwebtoken": "^8.3.2",
+    "@types/knex": "^0.16.1",
+    "@types/node": "^12.6.9",
+    "@types/uuid": "^3.4.5",
+    "@typescript-eslint/eslint-plugin": "^1.13.0",
+    "@typescript-eslint/parser": "^1.13.0",
+    "eslint": "^6.1.0",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-plugin-import-helpers": "^1.0.2",
+    "eslint-plugin-prettier": "^3.1.0",
+    "prettier": "^1.18.2",
+    "rimraf": "^2.6.3",
+    "ts-node-dev": "^1.0.0-pre.40",
+    "typescript": "^3.5.3"
+  }
+}
