@@ -1,4 +1,9 @@
 {
+  "name": "boilerplate-server",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node-dev --no-notify --respawn --transpileOnly ./src"
+  },
   "dependencies": {
     "apollo-server": "^2.8.1",
     "graphql": "^14.4.2",
